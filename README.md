@@ -50,7 +50,7 @@ Each movie is represented as a vector of textual features, and **cosine similari
 
 ## 🚀 Live Demo
 
-👉 (Deployment link coming soon)
+👉 https://movie-recommender-mx3qqmeehq7gb62tsdk3kf.streamlit.app/
 
 ---
 
